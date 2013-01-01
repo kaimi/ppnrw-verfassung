@@ -1,6 +1,6 @@
 = Verfassung für das Land Nordrhein-Westfalen =
 
-Vom 28. Juni 1950 (Fn 1)
+Vom 28. Juni 1950 <a href="#fn1">(Fn 1)</a>
 
 Der Landtag Nordrhein-Westfalen hat am 6. Juni 1950 folgendes Gesetz beschlossen, das gemäß Artikel 90 am 18. Juni 1950 durch Volksentscheid von der Mehrheit der Abstimmenden bejaht worden ist:
 
@@ -36,7 +36,7 @@ Von den Grundrechten und der Ordnung des Gemeinschaftslebens
 
 === Erster Abschnitt - Von den Grundrechten ===
 
-==== Artikel 4 (Fn 2) ====
+==== Artikel 4 <a href="#fn2">(Fn 2)</a> ====
 
 (1) Die im Grundgesetz für die Bundesrepublik Deutschland in der Fassung vom 23. Mai 1949 festgelegten Grundrechte und staatsbürgerlichen Rechte sind Bestandteil dieser Verfassung und unmittelbar geltendes Landesrecht.
 
@@ -44,13 +44,13 @@ Von den Grundrechten und der Ordnung des Gemeinschaftslebens
 
 === Zweiter Abschnitt - Die Familie ===
 
-==== Artikel 5 (Fn 3) ====
+==== Artikel 5 <a href="#fn3">(Fn 3)</a> ====
 
 (1) Ehe und Familie werden als die Grundlagen der menschlichen Gesellschaft anerkannt. Sie stehen unter dem besonderen Schutz des Landes. Die Mutterschaft und die kinderreiche Familie haben Anspruch auf besondere Fürsorge.
 
 (2) Familien- und Erwerbsarbeit sind gleichwertig. Frauen und Männer sind entsprechend ihrer Entscheidung an Familien- und Erwerbsarbeit gleichberechtigt beteiligt.
 
-==== Artikel 6 (Fn 20) ====
+==== Artikel 6 <a href="#fn20">(Fn 20)</a> ====
 
 (1) Jedes Kind hat ein Recht auf Achtung seiner Würde als eigenständige Persönlichkeit und auf besonderen Schutz von Staat und Gesellschaft.
 
@@ -62,13 +62,13 @@ Von den Grundrechten und der Ordnung des Gemeinschaftslebens
 
 === Dritter Abschnitt - Schule, Kunst und Wissenschaft, Sport, Religion und Religionsgemeinschaften ===
 
-==== Artikel 7 (Fn 4) ====
+==== Artikel 7 <a href="#fn4">(Fn 4)</a> ====
 
 (1) Ehrfurcht vor Gott, Achtung vor der Würde des Menschen und Bereitschaft zum sozialen Handeln zu wecken, ist vornehmstes Ziel der Erziehung.
 
 (2) Die Jugend soll erzogen werden im Geiste der Menschlichkeit, der Demokratie und der Freiheit, zur Duldsamkeit und zur Achtung vor der Überzeugung des anderen, zur Verantwortung für Tiere und die Erhaltung der natürlichen Lebensgrundlagen, in Liebe zu Volk und Heimat, zur Völkergemeinschaft und Friedensgesinnung.
 
-==== Artikel 8 (Fn 25) ====
+==== Artikel 8 <a href="#fn25">(Fn 25)</a> ====
 
 (1) Jedes Kind hat Anspruch auf Erziehung und Bildung. Das natürliche Recht der Eltern, die Erziehung und Bildung ihrer Kinder zu bestimmen, bildet die Grundlage des Erziehungs- und Schulwesens.
 
@@ -80,13 +80,13 @@ Die staatliche Gemeinschaft hat Sorge zu tragen, daß das Schulwesen den kulture
 
 (4) Für die Privatschulen gelten die Bestimmungen des Artikels 7 Abs. 4 und 5 des Grundgesetzes der Bundesrepublik Deutschland vom 23. Mai 1949 zugleich als Bestandteil dieser Verfassung. Die hiernach genehmigten Privatschulen haben die gleichen Berechtigungen wie die entsprechenden öffentlichen Schulen. Sie haben Anspruch auf die zur Durchführung ihrer Aufgaben und zur Erfüllung ihrer Pflichten erforderlichen öffentlichen Zuschüsse.
 
-==== Artikel 9 (Fn 25) ====
+==== Artikel 9 <a href="#fn25">(Fn 25)</a> ====
 
 (1) Schulgeld wird nicht erhoben.
 
 (2) Einführung und Durchführung der Lehr- und Lernmittelfreiheit für alle Schulen sind gesetzlich zu regeln. Zum Zwecke des Studiums sind im Bedarfsfalle besondere Unterhaltsbeihilfen zu gewähren. Soweit der Staat für die öffentlichen Schulen Schulgeldfreiheit gewährt, sind auch die in Artikel 8 Abs. 4 genannten Privatschulen berechtigt, zu Lasten des Staates auf die Erhebung von Schulgeld zu verzichten; soweit er Lehr- und Lernmittelfreiheit gewährt, sind Lehr- und Lernmittel in gleicher Weise für diese Privatschulen zur Verfügung zu stellen wie für die öffentlichen Schulen.
 
-==== Artikel 10 (Fn 25) ====
+==== Artikel 10 <a href="#fn25">(Fn 25)</a> ====
 
 (1) Das Schulwesen des Landes baut sich auf einer für alle Kinder verbindlichen Grundschule auf. Das Schulwesen wird durch die Mannigfaltigkeit der Lebens- und Berufsaufgaben bestimmt. Das Land gewährleistet ein ausreichendes und vielfältiges öffentliches Schulwesen, das ein gegliedertes Schulsystem, integrierte Schulformen sowie weitere andere Schulformen ermöglicht. Für die Aufnahme in eine Schule sind Anlage und Neigung des Kindes maßgebend, nicht die wirtschaftliche Lage und die gesellschaftliche Stellung der Eltern.
 
@@ -96,7 +96,7 @@ Die staatliche Gemeinschaft hat Sorge zu tragen, daß das Schulwesen den kulture
 
 In allen Schulen ist Staatsbürgerkunde Lehrgegenstand und staatsbürgerliche Erziehung verpflichtende Aufgabe.
 
-==== Artikel 12 (Fn 5) ====
+==== Artikel 12 <a href="#fn5">(Fn 5)</a> ====
 
 (1) Schulen müssen entsprechend ihren Bildungszielen nach Organisation und Ausstattung die Voraussetzungen eines geordneten Schulbetriebs erfüllen.
 
@@ -124,7 +124,7 @@ Wegen des religiösen Bekenntnisses darf im Einzelfalle keinem Kinde die Aufnahm
 
 (4) Die Befreiung vom Religionsunterricht ist abhängig von einer schriftlichen Willenserklärung der Erziehungsberechtigten oder des religionsmündigen Schülers.
 
-==== Artikel 15 (Fn 6) ====
+==== Artikel 15 <a href="#fn6">(Fn 6)</a> ====
 
 Die Ausbildung der Lehrer erfolgt in der Regel an wissenschaftlichen Hochschulen. Sie berücksichtigt die Bedürfnisse der Schulen; es ist ein Lehrangebot zu gewährleisten, das diesem Erfordernis gerecht wird. Es ist sicherzustellen, daß die Befähigung zur Erteilung des Religionsunterrichts erworben werden kann.
 
@@ -138,7 +138,7 @@ Die Ausbildung der Lehrer erfolgt in der Regel an wissenschaftlichen Hochschulen
 
 Die Erwachsenenbildung ist zu fördern. Als Träger von Einrichtungen der Erwachsenenbildung werden neben Staat, Gemeinden und Gemeindeverbänden auch andere Träger, wie die Kirchen und freien Vereinigungen, anerkannt.
 
-==== Artikel 18 (Fn 7) ====
+==== Artikel 18 <a href="#fn7">(Fn 7)</a> ====
 
 (1) Kultur, Kunst und Wissenschaft sind durch Land und Gemeinden zu pflegen und zu fördern.
 
@@ -208,7 +208,7 @@ Die Klein- und Mittelbetriebe in Landwirtschaft, Handwerk, Handel und Gewerbe un
 
 (3) Die Kleinsiedlung und das Kleingartenwesen sind zu fördern.
 
-==== Artikel 29a (Fn 8) ====
+==== Artikel 29a <a href="#fn8">(Fn 8)</a> ====
 
 (1) Die natürlichen Lebensgrundlagen und die Tiere stehen unter dem Schutz des Landes, der Gemeinden und Gemeindeverbände.
 
@@ -226,7 +226,7 @@ Von den Organen und Aufgaben des Landes
 
 (2) Die Abgeordneten stimmen nach ihrer freien, nur durch die Rücksicht auf das Volkswohl bestimmten Überzeugung; sie sind an Aufträge nicht gebunden.
 
-==== Artikel 31 (Fn 9) ====
+==== Artikel 31 <a href="#fn9">(Fn 9)</a> ====
 
 (1) Die Abgeordneten werden in allgemeiner, gleicher, unmittelbarer, geheimer und freier Wahl gewählt.
 
@@ -252,7 +252,7 @@ Von den Organen und Aufgaben des Landes
 
 (4) Das Nähere wird durch Gesetz geregelt.
 
-==== Artikel 34 (Fn 10) ====
+==== Artikel 34 <a href="#fn10">(Fn 10)</a> ====
 
 Der Landtag wird auf fünf Jahre gewählt. Die Neuwahl findet im letzten Vierteljahr der Wahlperiode statt.
 
@@ -268,7 +268,7 @@ Der Landtag wird auf fünf Jahre gewählt. Die Neuwahl findet im letzten Viertel
 
 Die Wahlperiode des neuen Landtags beginnt mit seiner ersten Tagung.
 
-==== Artikel 37 (Fn 10) ====
+==== Artikel 37 <a href="#fn10">(Fn 10)</a> ====
 
 Der Landtag tritt spätestens am zwanzigsten Tage nach der Wahl, jedoch nicht vor dem Ende der Wahlperiode des letzten Landtags, zusammen.
 
@@ -294,7 +294,7 @@ Der Landtag tritt spätestens am zwanzigsten Tage nach der Wahl, jedoch nicht vo
 
 Der Landtag bestellt einen ständigen Ausschuß (Hauptausschuß). Dieser Ausschuß hat die Rechte der Volksvertretung gegenüber der Regierung zu wahren, solange der Landtag nicht versammelt ist. Die gleichen Rechte stehen ihm zwischen dem Ende einer Wahlperiode oder der Auflösung des Landtags und dem Zusammentritt des neuen Landtags zu. Er hat in dieser Zeit die Rechte eines Untersuchungsausschusses. Seine Zusammensetzung wird durch die Geschäftsordnung geregelt. Seine Mitglieder genießen die in den Artikeln 47 bis 50 festgelegten Rechte.
 
-==== Artikel 41 (Fn 11) ====
+==== Artikel 41 <a href="#fn11">(Fn 11)</a> ====
 
 (1) Der Landtag hat das Recht und auf Antrag von einem Fünftel der gesetzlichen Zahl seiner Mitglieder die Pflicht, Untersuchungsausschüsse einzusetzen. Diese Ausschüsse erheben in öffentlicher Verhandlung die Beweise, die sie oder die Antragsteller für erforderlich erachten. Sie können mit Zweidrittelmehrheit die Öffentlichkeit ausschließen. Die Zahl der Mitglieder bestimmt der Landtag. Die Mitglieder wählt der Landtag im Wege der Verhältniswahl. Das Nähere über die Einsetzung, die Befugnisse und das Verfahren wird durch Gesetz geregelt.
 
@@ -304,7 +304,7 @@ Der Landtag bestellt einen ständigen Ausschuß (Hauptausschuß). Dieser Ausschu
 
 (4) Die Beschlüsse der Untersuchungsausschüsse sind der richterlichen Erörterung entzogen. In der Feststellung und in der rechtlichen Beurteilung des der Untersuchung zugrunde liegenden Sachverhalts sind die Gerichte frei.
 
-==== Artikel 41 a (Fn 12) ====
+==== Artikel 41 a <a href="#fn12">(Fn 12)</a> ====
 
 (1) Zur Vorbereitung der Beschlüsse über Petitionen gemäß Artikel 17 des Grundgesetzes sind die Landesregierung und die Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sowie Behörden und sonstige Verwaltungseinrichtungen, soweit sie unter der Aufsicht des Landes stehen, verpflichtet, dem Petitionsausschuß des Landtags auf sein Verlangen jederzeit Zutritt zu ihren Einrichtungen zu gestatten.
 
@@ -326,7 +326,7 @@ Wegen wahrheitsgetreuer Berichte über öffentliche Sitzungen des Landtags und s
 
 (2) Der Landtag faßt seine Beschlüsse mit Stimmenmehrheit.
 
-==== Artikel 45 (Fn 13) ====
+==== Artikel 45 <a href="#fn13">(Fn 13)</a> ====
 
 (1) Die Mitglieder der Landesregierung und die von ihnen Beauftragten können den Sitzungen des Landtags und seiner Ausschüsse beiwohnen. Sie unterstehen der Ordnungsgewalt des Vorsitzenden. Den Mitgliedern der Landesregierung ist jederzeit, auch außerhalb der Tagesordnung, das Wort zu erteilen.
 
@@ -334,7 +334,7 @@ Wegen wahrheitsgetreuer Berichte über öffentliche Sitzungen des Landtags und s
 
 (3) Die Vorschrift des Absatzes 1, Satz 1 und 3 gilt nicht für die Sitzungen der Untersuchungsausschüsse.
 
-==== Artikel 46 (Fn 14) ====
+==== Artikel 46 <a href="#fn14">(Fn 14)</a> ====
 
 (1) Abgeordnete dürfen an der Übernahme und Ausübung ihres Mandats nicht gehindert oder hierdurch in ihrem Amt oder Arbeitsverhältnis benachteiligt werden. Insbesondere ist unzulässig, sie aus diesem Grunde zu entlassen oder ihnen zu kündigen.
 
@@ -478,7 +478,7 @@ Die Gesetze werden vom Landtag beschlossen. Staatsverträge bedürfen der Zustim
 
 Gegen ein vom Landtag beschlossenes Gesetz kann die Landesregierung innerhalb von zwei Wochen Bedenken erheben. Der Landtag entscheidet sodann, ob er den Bedenken Rechnung tragen will.
 
-==== Artikel 67 a (Fn 21) ====
+==== Artikel 67 a <a href="#fn21">(Fn 21)</a> ====
 
 (1) Volksinitiativen können darauf gerichtet sein, den Landtag im Rahmen seiner Entscheidungszuständigkeit mit bestimmten Gegenständen der politischen Willensbildung zu befassen. Einer Initiative kann auch ein mit Gründen versehener Gesetzentwurf zu Grunde liegen.
 
@@ -486,7 +486,7 @@ Gegen ein vom Landtag beschlossenes Gesetz kann die Landesregierung innerhalb vo
 
 (3) Das Nähere wird durch Gesetz geregelt.
 
-==== Artikel 68 (Fn 22) ====
+==== Artikel 68 <a href="#fn22">(Fn 22)</a> ====
 
 (1) Volksbegehren können darauf gerichtet werden, Gesetze zu erlassen, zu ändern oder aufzuheben. Dem Volksbegehren muß ein ausgearbeiteter und mit Gründen versehener Gesetzentwurf zugrunde liegen. Ein Volksbegehren ist nur auf Gebieten zulässig, die der Gesetzgebungsgewalt des Landes unterliegen. über Finanzfragen, Abgabengesetze und Besoldungsordnungen ist ein Volksbegehren nicht zulässig. Über die Zulässigkeit entscheidet die Landesregierung. Gegen die Entscheidung ist die Anrufung des Verfassungsgerichtshofes zulässig. Das Volksbegehren ist nur rechtswirksam, wenn es von mindestens 8 vom Hundert der Stimmberechtigten gestellt ist.
 
@@ -498,7 +498,7 @@ Gegen ein vom Landtag beschlossenes Gesetz kann die Landesregierung innerhalb vo
 
 (5) Die Vorschriften des Artikels 31 Abs. 1 bis 3 über das Wahlrecht und Wahlverfahren finden auf das Stimmrecht und das Abstimmungsverfahren entsprechende Anwendung. Das Nähere wird durch Gesetz geregelt.
 
-==== Artikel 69 (Fn 23) ====
+==== Artikel 69 <a href="#fn23">(Fn 23)</a> ====
 
 (1) Die Verfassung kann nur durch ein Gesetz geändert werden, das den Wortlaut der Verfassung ausdrücklich ändert oder ergänzt. Änderungen der Verfassung, die den Grundsätzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne des Grundgesetzes für die Bundesrepublik widersprechen, sind unzulässig.
 
@@ -565,7 +565,7 @@ Der Verfassungsgerichtshof entscheidet:
 
 Die Organisation der allgemeinen Landesverwaltung und die Regelung der Zuständigkeiten erfolgt durch Gesetz. Die Einrichtung der Behörden im einzelnen obliegt der Landesregierung und auf Grund der von ihr erteilten Ermächtigung den einzelnen Landesministern.
 
-==== Artikel 77a (Fn 15) ====
+==== Artikel 77a <a href="#fn15">(Fn 15)</a> ====
 
 (1) Der Landtag wählt auf Vorschlag der Landesregierung einen Landesbeauftragten für den Datenschutz mit mehr als der Hälfte der gesetzlichen Zahl seiner Mitglieder; Artikel 58 bleibt im übrigen unberührt.
 
@@ -573,7 +573,7 @@ Die Organisation der allgemeinen Landesverwaltung und die Regelung der Zuständi
 
 (3) Das Nähere wird durch Gesetz geregelt.
 
-==== Artikel 78 (Fn 24) ====
+==== Artikel 78 <a href="#fn24">(Fn 24)</a> ====
 
 (1) Die Gemeinden und Gemeindeverbände sind Gebietskörperschaften mit dem Recht der Selbstverwaltung durch ihre gewählten Organe.
 
@@ -599,7 +599,7 @@ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
 === Siebter Abschnitt - Das Finanzwesen ===
 
-==== Artikel 81 (Fn 17) ====
+==== Artikel 81 <a href="#fn17">(Fn 17)</a> ====
 
 (1) Der Landtag sorgt durch Bewilligung der erforderlichen laufenden Mittel für die Deckung des Landesbedarfs.
 
@@ -607,7 +607,7 @@ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
 (3) Der Haushaltsplan wird für ein oder mehrere Haushaltsjahre, nach Jahren getrennt, vor Beginn des ersten Haushaltsjahres durch das Haushaltsgesetz festgestellt. Für Teile des Haushaltsplans kann vorgesehen werden, das sie für unterschiedliche Zeiträume, nach Haushaltsjahren getrennt, gelten.
 
-==== Artikel 82 (Fn 17) ====
+==== Artikel 82 <a href="#fn17">(Fn 17)</a> ====
 
 Ist bis zum Schluß eines Haushaltsjahres der Haushaltsplan für das folgende Jahr nicht festgestellt, so ist bis zu seinem Inkrafttreten die Landesregierung ermächtigt,
 
@@ -621,7 +621,7 @@ c) um Bauten, Beschaffungen und sonstige Leistungen fortzusetzen, für die durch
 
 2. Schatzanweisungen bis zur Höhe eines Viertels der Endsumme des abgelaufenen Haushaltsplanes für je drei Monate auszugeben, soweit nicht Einnahmen aus Steuern und Abgaben und Einnahmen aus sonstigen Quellen die Ausgaben unter Ziffer 1 decken.
 
-==== Artikel 83 (Fn 18) ====
+==== Artikel 83 <a href="#fn18">(Fn 18)</a> ====
 
 Die Aufnahme von Krediten sowie die Übernahme von Bürgschaften, Garantien oder sonstigen Gewährleistungen, die zu Ausgaben in künftigen Haushaltsjahren führen können, bedürfen einer der Höhe nach bestimmten oder bestimmbaren Ermächtigung durch Gesetz. Die Einnahmen aus Krediten dürfen entsprechend den Erfordernissen des gesamtwirtschaftlichen Gleichgewichts in der Regel nur bis zur Höhe der Summe der im Haushaltsplan veranschlagten Ausgaben für Investitionen in den Haushaltsplan eingestellt werden; das Nähere wird durch Gesetz geregelt.
 
@@ -629,19 +629,19 @@ Die Aufnahme von Krediten sowie die Übernahme von Bürgschaften, Garantien oder
 
 Beschlüsse des Landtags, welche Ausgaben mit sich bringen, müssen bestimmen, wie diese Ausgaben gedeckt werden.
 
-==== Artikel 85 (Fn 19) ====
+==== Artikel 85 <a href="#fn19">(Fn 19)</a> ====
 
 (1) Überplanmäßige und außerplanmäßige Ausgaben bedürfen der Zustimmung des Finanzministers. Sie darf nur im Falle eines unvorhergesehenen und unabweisbaren Bedürfnisses erteilt werden.
 
 (2) Zu überplanmäßigen und außerplanmäßigen Ausgaben hat der Finanzminister die Genehmigung des Landtags einzuholen.
 
-==== Artikel 86 (Fn 18) ====
+==== Artikel 86 <a href="#fn18">(Fn 18)</a> ====
 
 (1) Der Finanzminister hat dem Landtag über alle Einnahmen und Ausgaben im Laufe des nächsten Haushaltsjahres zur Entlastung der Landesregierung Rechnung zu legen. Der Haushaltsrechnung sind Übersichten über das Vermögen und die Schulden des Landes beizufügen.
 
 (2) Der Landesrechnungshof prüft die Rechnung sowie die Ordnungsmäßigkeit und Wirtschaftlichkeit der Haushalts- und Wirtschaftsführung. Er faßt das Ergebnis seiner Prüfung jährlich in einem Bericht für den Landtag zusammen, den er auch der Landesregierung zuleitet.
 
-==== Artikel 87 (Fn 18) ====
+==== Artikel 87 <a href="#fn18">(Fn 18)</a> ====
 
 (1) Der Landesrechnungshof ist eine selbständige, nur dem Gesetz unterworfene oberste Landesbehörde. Seine Mitglieder genießen den Schutz richterlicher Unabhängigkeit.
 
@@ -663,7 +663,9 @@ Auf dem Gebiete des Schulwesens gelten in dem ehemaligen Lande Lippe die Rechtsv
 
 (1) Die Verfassung ist dem Volke zur Billigung zu unterbreiten. Die Abstimmung erfolgt nach Maßgabe eines Landtagsbeschlusses. Die Verfassung gilt als angenommen, wenn die Mehrheit der Abstimmenden sie bejaht hat.
 
-(2) Die Verfassung ist nach ihrer Annahme durch das Volk im Gesetz- und Verordnungsblatt zu verkünden. Sie tritt mit dem auf ihre Verkündung folgenden Tage in Kraft (Fn 19).
+(2) Die Verfassung ist nach ihrer Annahme durch das Volk im Gesetz- und
+Verordnungsblatt zu verkünden. Sie tritt mit dem auf ihre Verkündung folgenden
+Tage in Kraft <a href="#fn19">(Fn 19)</a>.
 
 === Artikel 91 ===
 
@@ -671,7 +673,7 @@ Auf dem Gebiete des Schulwesens gelten in dem ehemaligen Lande Lippe die Rechtsv
 
 (2) Die bestehenden Organe des Landes nehmen bis zur Bildung der durch diese Verfassung vorgesehenen Organe deren Aufgaben wahr. Eine nach den Bestimmungen dieser Verfassung bereits vor ihrem Inkrafttreten gebildete Landesregierung gilt als Landesregierung im Sinne der Artikel 51 ff.
 
-=== Artikel 92 (Fn 20) ===
+=== Artikel 92 <a href="#fn20">(Fn 20)</a> ===
 
 Die Wahlperiode des im Jahre 1970 zu wählenden Landtags beträgt vier Jahre zehn Monate.
 
@@ -679,28 +681,28 @@ Düsseldorf, den 28. Juni 1950
 
 == Fussnoten ==
 
-* Fn 1	GV. NW. 1950 S.127/GS. NW. S.3, geändert durch Gesetz zur Ergänzung des Artikels 46 der Verfassung für das Land Nordrhein-Westfalen v. 11. Mai 1954 (GV. NW. S.131), Gesetz v. 27. 7. 1965 (GV. NW. S.220), v. 5. 3. 1968 (GV. NW. S.36), v. 11. 3. 1969 (GV. NW. S.146), v. 24. 6. 1969 (GV. NW. S.448), v. 16. 7. 1969 (GV. NW. S.530), v. 16. 7. 1969 (GV. NW. S. 535), v. 14. 12. 1971 (GV. NW. S.393), v. 21. 3. 1972 (GV. NW. S.68), v. 24. 6. 1974 (GV. NW. S.220), v. 19. 12. 1978 (GV. NW. S.632), v. 18. 12. 1984 (GV. NW. 1985 S.14), 19. 3. 1985 (GV. NW. S.255), 20. 6. 1989 (GV. NW. S.428), 24. 11. 1992 (GV. NW. S.448), 3.7.2001 (GV. NRW. S.456), 29.1.2002 (GV. NRW S.52), 5.3.2002 (GV. NRW. S.108); 22.6.2004 (GV. NRW. S.360), in Kraft getreten am 1. Juli 2004; Gesetz vom 25. Oktober 2011 (GV. NRW. S. 499), in Kraft getreten am 29. Oktober 2011.
-* Fn 2	Art. 4 geändert durch Gesetz v. 19. 12. 1978 (GV. NW. S.632); in Kraft getreten am 23. Dezember 1978.
-* Fn 3	Art. 5 Abs. 2 geändert durch Gesetz v. 20. 6. 1989 (GV. NW. S.428); in Kraft getreten am 21. Juli 1989.
-* Fn 4	Art. 7 Abs. 2 zuletzt geändert durch Gesetz v. 3.7.2001 (GV. NRW. S.456); in Kraft getreten am 20. Juli 2001.
-* Fn 5	Art. 12 zuletzt geändert durch Gesetz vom 25. Oktober 2011 (GV. NRW. S. 499), in Kraft getreten am 29. Oktober 2011.
-* Fn 6	Art. 15 geändert durch Gesetz v. 24. 6. 1969 (GV. NW. S.448); in Kraft getreten am 1. Juli 1969.
-* Fn 7	Art. 18 geändert durch Gesetz v. 24. 11. 1992 (GV. NW. S.448); in Kraft getreten am 12. Dezember 1992.
-* Fn 8	Art. 29 a geändert durch Gesetz v. 3.7.2001 (GV. NRW. S.456); in Kraft getreten am 20. Juli 2001.
-* Fn 9	Art. 31 Abs. 2 zuletzt geändert durch Gesetz v. 24. 6. 1974 (GV. NW. S. 220); in Kraft getreten am 4. Juli 1974.
-* Fn 10	Art. 34 und 37 geändert durch Gesetz v. 16. 7. 1969 (GV. NW. S.530); in Kraft getreten am 26. Juli 1969.
-* Fn 11	Art. 41 geändert durch Gesetz v. 18. 12. 1984 (GV. NW. 1985 S.14); in Kraft getreten am 17. Januar 1985.
-* Fn 12	Art. 41 a angefügt durch Gesetz v. 11. 3. 1969 (GV. NW. S.146); in Kraft getreten am 1. April 1969.
-* Fn 13	Art. 45 geändert durch Gesetz v. 27. 7. 1965 (GV. NW. S.220), in Kraft getreten am 1. September 1965.
-* Fn 14	Art. 46 zuletzt geändert durch Gesetz v. 21. 5. 1972 (GV. NW. S.68), in Kraft getreten am 13. April 1972.
-* Fn 15	Art. 77 a eingefügt durch Gesetz v. 19. 12. 1978 (GV. NW. S.632); in Kraft getreten am 23. Dezember 1978.
-* Fn 16	Art. 81 und 82 geändert durch Gesetz v. 14. 12. 1971 (GV. NW. S.393); in Kraft getreten am 1. Januar 1972.
-* Fn 17	Art. 83, 85, 86 und 87 geändert durch Gesetz v. 14. 12. 1971 (GV. NW. S. 393); in Kraft getreten am 1. Januar 1972.
-* Fn 18	GV. NW. ausgegeben am 10. Juli 1950.
-* Fn 19	Art. 92 angefügt durch Gesetz v. 16. 7. 1969 (GV. NW. S.530); in Kraft getreten am 26. Juli 1969.
-* Fn 20	Art. 6 geändert durch Gesetz v. 29.1.2002 (GV. NRW S.52) in Kraft getreten am 20. Februar 2002.
-* Fn 21	Art. 67 a eingefügt durch Gesetz v. 5.3.2002 (GV. NRW. S.108) in Kraft getreten am 6. April 2002.
-* Fn 22	Art. 68 geändert durch Gesetz v. 5.3.2002 (GV. NRW. S.108) in Kraft getreten am 6. April 2002.
-* Fn 23	Art. 69 geändert durch Gesetz v. 5.3.2002 (GV. NRW. S.108) in Kraft getreten am 6. April 2002.
-* Fn 24	Art 78 Abs. 3 neu gefasst durch Art. I des Gesetzes vom 22. Juni 2004 (GV. NRW. S.360); in Kraft getreten am 1. Juli 2004.
-* Fn 25	Artikel 8, 9 und 10 geändert durch Gesetz vom 25. Oktober 2011 (GV. NRW. S.499), in Kraft getreten am 29. Oktober 2011.
+* <a name="fn1">Fn 1</a>	GV. NW. 1950 S.127/GS. NW. S.3, geändert durch Gesetz zur Ergänzung des Artikels 46 der Verfassung für das Land Nordrhein-Westfalen v. 11. Mai 1954 (GV. NW. S.131), Gesetz v. 27. 7. 1965 (GV. NW. S.220), v. 5. 3. 1968 (GV. NW. S.36), v. 11. 3. 1969 (GV. NW. S.146), v. 24. 6. 1969 (GV. NW. S.448), v. 16. 7. 1969 (GV. NW. S.530), v. 16. 7. 1969 (GV. NW. S. 535), v. 14. 12. 1971 (GV. NW. S.393), v. 21. 3. 1972 (GV. NW. S.68), v. 24. 6. 1974 (GV. NW. S.220), v. 19. 12. 1978 (GV. NW. S.632), v. 18. 12. 1984 (GV. NW. 1985 S.14), 19. 3. 1985 (GV. NW. S.255), 20. 6. 1989 (GV. NW. S.428), 24. 11. 1992 (GV. NW. S.448), 3.7.2001 (GV. NRW. S.456), 29.1.2002 (GV. NRW S.52), 5.3.2002 (GV. NRW. S.108); 22.6.2004 (GV. NRW. S.360), in Kraft getreten am 1. Juli 2004; Gesetz vom 25. Oktober 2011 (GV. NRW. S. 499), in Kraft getreten am 29. Oktober 2011.
+* <a name="fn2">Fn 2</a>	Art. 4 geändert durch Gesetz v. 19. 12. 1978 (GV. NW. S.632); in Kraft getreten am 23. Dezember 1978.
+* <a name="fn3">Fn 3</a>	Art. 5 Abs. 2 geändert durch Gesetz v. 20. 6. 1989 (GV. NW. S.428); in Kraft getreten am 21. Juli 1989.
+* <a name="fn4">Fn 4</a>	Art. 7 Abs. 2 zuletzt geändert durch Gesetz v. 3.7.2001 (GV. NRW. S.456); in Kraft getreten am 20. Juli 2001.
+* <a name="fn5">Fn 5</a>	Art. 12 zuletzt geändert durch Gesetz vom 25. Oktober 2011 (GV. NRW. S. 499), in Kraft getreten am 29. Oktober 2011.
+* <a name="fn6">Fn 6</a>	Art. 15 geändert durch Gesetz v. 24. 6. 1969 (GV. NW. S.448); in Kraft getreten am 1. Juli 1969.
+* <a name="fn7">Fn 7</a>	Art. 18 geändert durch Gesetz v. 24. 11. 1992 (GV. NW. S.448); in Kraft getreten am 12. Dezember 1992.
+* <a name="fn8">Fn 8</a>	Art. 29 a geändert durch Gesetz v. 3.7.2001 (GV. NRW. S.456); in Kraft getreten am 20. Juli 2001.
+* <a name="fn9">Fn 9</a>	Art. 31 Abs. 2 zuletzt geändert durch Gesetz v. 24. 6. 1974 (GV. NW. S. 220); in Kraft getreten am 4. Juli 1974.
+* <a name="fn10">Fn 10</a>	Art. 34 und 37 geändert durch Gesetz v. 16. 7. 1969 (GV. NW. S.530); in Kraft getreten am 26. Juli 1969.
+* <a name="fn11">Fn 11</a>	Art. 41 geändert durch Gesetz v. 18. 12. 1984 (GV. NW. 1985 S.14); in Kraft getreten am 17. Januar 1985.
+* <a name="fn12">Fn 12</a>	Art. 41 a angefügt durch Gesetz v. 11. 3. 1969 (GV. NW. S.146); in Kraft getreten am 1. April 1969.
+* <a name="fn13">Fn 13</a>	Art. 45 geändert durch Gesetz v. 27. 7. 1965 (GV. NW. S.220), in Kraft getreten am 1. September 1965.
+* <a name="fn14">Fn 14</a>	Art. 46 zuletzt geändert durch Gesetz v. 21. 5. 1972 (GV. NW. S.68), in Kraft getreten am 13. April 1972.
+* <a name="fn15">Fn 15</a>	Art. 77 a eingefügt durch Gesetz v. 19. 12. 1978 (GV. NW. S.632); in Kraft getreten am 23. Dezember 1978.
+* <a name="fn16">Fn 16</a>	Art. 81 und 82 geändert durch Gesetz v. 14. 12. 1971 (GV. NW. S.393); in Kraft getreten am 1. Januar 1972.
+* <a name="fn17">Fn 17</a>	Art. 83, 85, 86 und 87 geändert durch Gesetz v. 14. 12. 1971 (GV. NW. S. 393); in Kraft getreten am 1. Januar 1972.
+* <a name="fn18">Fn 18</a>	GV. NW. ausgegeben am 10. Juli 1950.
+* <a name="fn19">Fn 19</a>	Art. 92 angefügt durch Gesetz v. 16. 7. 1969 (GV. NW. S.530); in Kraft getreten am 26. Juli 1969.
+* <a name="fn20">Fn 20</a>	Art. 6 geändert durch Gesetz v. 29.1.2002 (GV. NRW S.52) in Kraft getreten am 20. Februar 2002.
+* <a name="fn21">Fn 21</a>	Art. 67 a eingefügt durch Gesetz v. 5.3.2002 (GV. NRW. S.108) in Kraft getreten am 6. April 2002.
+* <a name="fn22">Fn 22</a>	Art. 68 geändert durch Gesetz v. 5.3.2002 (GV. NRW. S.108) in Kraft getreten am 6. April 2002.
+* <a name="fn23">Fn 23</a>	Art. 69 geändert durch Gesetz v. 5.3.2002 (GV. NRW. S.108) in Kraft getreten am 6. April 2002.
+* <a name="fn24">Fn 24</a>	Art 78 Abs. 3 neu gefasst durch Art. I des Gesetzes vom 22. Juni 2004 (GV. NRW. S.360); in Kraft getreten am 1. Juli 2004.
+* <a name="fn25">Fn 25</a>	Artikel 8, 9 und 10 geändert durch Gesetz vom 25. Oktober 2011 (GV. NRW. S.499), in Kraft getreten am 29. Oktober 2011.
